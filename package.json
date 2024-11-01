@@ -1,0 +1,23 @@
+{
+  "name": "next-supabase-starter",
+  "version": "0.0.1",
+  "description": "A scaffolder for Next.js projects with Supabase and shadcn/ui",
+  "main": "index.js",
+  "bin": {
+    "next-supabase": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "nextjs",
+    "supabase",
+    "shadcn",
+    "scaffold"
+  ],
+  "author": "Stefan Simic",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.4.1"
+  }
+}
