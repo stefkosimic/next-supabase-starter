@@ -1,6 +1,6 @@
 {
   "name": "next-supabase-starter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A scaffolder for Next.js projects with Supabase and shadcn/ui",
   "main": "index.js",
   "bin": {
